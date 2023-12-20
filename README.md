@@ -1,0 +1,1 @@
+Project for subject Software Components. Point of this project was to create a schedule application which uses two custom dependencies, one for schedule as a collection of events and the second one a schedule on a weekly basis for a given time period. Build tool that was in use is Maven and it was used to generate .jar file for executing the application in a terminal.
