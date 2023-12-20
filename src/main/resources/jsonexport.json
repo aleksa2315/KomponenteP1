@@ -1,0 +1,2016 @@
+[ {
+  "Datum" : "03-01-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-19:00:00"
+}, {
+  "Datum" : "03-01-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "03-01-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-13:00:00"
+}, {
+  "Datum" : "04-01-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "04-01-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "05-01-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "09-01-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "09-01-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "09-01-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "11-01-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "11-01-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "12-01-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-19:00:00"
+}, {
+  "Datum" : "13-01-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "16-01-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "16-01-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "17-01-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "17-01-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "19-01-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "23-01-2023",
+  "Učionica" : "Raf15 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "23-01-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "23-01-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "25-01-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "26-01-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "31-01-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "01-02-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "01-02-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "02-02-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "02-02-2023",
+  "Učionica" : "Raf18 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "07-02-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "07-02-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "08-02-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "08-02-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "08-02-2023",
+  "Učionica" : "CET",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "08-02-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "08-02-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "08-02-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "10-02-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "10-02-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "13-02-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "13-02-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "13-02-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "13-02-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-15:00:00"
+}, {
+  "Datum" : "14-02-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "15-02-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "15-02-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-19:00:00"
+}, {
+  "Datum" : "15-02-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "16-02-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "16-02-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "17-02-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "17-02-2023",
+  "Učionica" : "CET",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "17-02-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "22-02-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "10:15:00-12:00:00"
+}, {
+  "Datum" : "22-02-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "22-02-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "22-02-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "22-02-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "22-02-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "24-02-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "24-02-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "24-02-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "24-02-2023",
+  "Učionica" : "Raf19 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "27-02-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "01-03-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "01-03-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "01-03-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "03-03-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "06-03-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "06-03-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "06-03-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "07-03-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "07-03-2023",
+  "Učionica" : "Raf18 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "09-03-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "09-03-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-14:00:00"
+}, {
+  "Datum" : "09-03-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "13-03-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "15-03-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "16-03-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "20-03-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "21-03-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "22-03-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "22-03-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "10:15:00-13:00:00"
+}, {
+  "Datum" : "22-03-2023",
+  "Učionica" : "Raf15 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "22-03-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "22-03-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-15:00:00"
+}, {
+  "Datum" : "23-03-2023",
+  "Učionica" : "Rg06 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "16:15:00-19:00:00"
+}, {
+  "Datum" : "24-03-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "27-03-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "27-03-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "28-03-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "28-03-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "29-03-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "30-03-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "31-03-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "03-04-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "03-04-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "03-04-2023",
+  "Učionica" : "Raf18 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "06-04-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "06-04-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "07-04-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "10:15:00-12:00:00"
+}, {
+  "Datum" : "10-04-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "10-04-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "11-04-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "12-04-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "14-04-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "18-04-2023",
+  "Učionica" : "Rg04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "18-04-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "18-04-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "20:15:00-21:00:00"
+}, {
+  "Datum" : "18-04-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-13:00:00"
+}, {
+  "Datum" : "19-04-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "19-04-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "19-04-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "20-04-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "20-04-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-15:00:00"
+}, {
+  "Datum" : "21-04-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "21-04-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "21-04-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "24-04-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "24-04-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "25-04-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "25-04-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "25-04-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "28-04-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "02-05-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "03-05-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "04-05-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "04-05-2023",
+  "Učionica" : "Raf15 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "08-05-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "08-05-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "08-05-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "08-05-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "09-05-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "10:15:00-13:00:00"
+}, {
+  "Datum" : "10-05-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "11-05-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "11-05-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "12-05-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "12-05-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "13:15:00-16:00:00"
+}, {
+  "Datum" : "15-05-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "15-05-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "16-05-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "17-05-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "18-05-2023",
+  "Učionica" : "Raf12 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "18-05-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "19-05-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "12:15:00-14:00:00"
+}, {
+  "Datum" : "19-05-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "19-05-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "23-05-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "23-05-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "25-05-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "25-05-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "25-05-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "26-05-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "26-05-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "29-05-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-16:00:00"
+}, {
+  "Datum" : "29-05-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "30-05-2023",
+  "Učionica" : "Raf15 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "30-05-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "30-05-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "01-06-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "05-06-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "06-06-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "06-06-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "07-06-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "07-06-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "08-06-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "09-06-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "12-06-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "13-06-2023",
+  "Učionica" : "Raf19 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "14-06-2023",
+  "Učionica" : "Raf12 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "14-06-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "15-06-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "15-06-2023",
+  "Učionica" : "Rg04 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "15-06-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "16-06-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "19-06-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "19-06-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "19-06-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "19-06-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-19:00:00"
+}, {
+  "Datum" : "20-06-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "20-06-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "20-06-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "21-06-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "21-06-2023",
+  "Učionica" : "Rg04 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "22-06-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "16:15:00-19:00:00"
+}, {
+  "Datum" : "23-06-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "27-06-2023",
+  "Učionica" : "Raf15 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "27-06-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "28-06-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "28-06-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "29-06-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "30-06-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "10:15:00-12:00:00"
+}, {
+  "Datum" : "30-06-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "30-06-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-19:00:00"
+}, {
+  "Datum" : "03-07-2023",
+  "Učionica" : "Raf12 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "03-07-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "05-07-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "05-07-2023",
+  "Učionica" : "Raf15 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "05-07-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "06-07-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "06-07-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "07-07-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "10-07-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "10-07-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "10-07-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "10-07-2023",
+  "Učionica" : "Rg06 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-13:00:00"
+}, {
+  "Datum" : "11-07-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "11-07-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "11-07-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "12-07-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "12-07-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "12-07-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "12-07-2023",
+  "Učionica" : "Rg06 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "13-07-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "13-07-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "14-07-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "14-07-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "14-07-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "17-07-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "20-07-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "20-07-2023",
+  "Učionica" : "Raf12 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "21-07-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "24-07-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "27-07-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "28-07-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "12:15:00-14:00:00"
+}, {
+  "Datum" : "28-07-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-15:00:00"
+}, {
+  "Datum" : "31-07-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "31-07-2023",
+  "Učionica" : "Raf19 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "01-08-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "02-08-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-16:00:00"
+}, {
+  "Datum" : "02-08-2023",
+  "Učionica" : "CET",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "03-08-2023",
+  "Učionica" : "Rg04 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-15:00:00"
+}, {
+  "Datum" : "07-08-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "08-08-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "08-08-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "08-08-2023",
+  "Učionica" : "Rg06 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "10-08-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "10-08-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "11-08-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "12:15:00-14:00:00"
+}, {
+  "Datum" : "14-08-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "15-08-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "12:15:00-14:00:00"
+}, {
+  "Datum" : "15-08-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-19:00:00"
+}, {
+  "Datum" : "16-08-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "16-08-2023",
+  "Učionica" : "Raf18 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "17-08-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "10:15:00-13:00:00"
+}, {
+  "Datum" : "17-08-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "17-08-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "18-08-2023",
+  "Učionica" : "Rg06 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "18-08-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "21-08-2023",
+  "Učionica" : "Rg04 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "22-08-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "22-08-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "22-08-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "23-08-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "24-08-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "24-08-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "25-08-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "25-08-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "10:15:00-12:00:00"
+}, {
+  "Datum" : "29-08-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "29-08-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "08:15:00-14:00:00"
+}, {
+  "Datum" : "30-08-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "30-08-2023",
+  "Učionica" : "Raf19 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "01-09-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "04-09-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "05-09-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "07-09-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "07-09-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "07-09-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "07-09-2023",
+  "Učionica" : "Raf19 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "11-09-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-20:00:00"
+}, {
+  "Datum" : "12-09-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "12-09-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "12-09-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-16:00:00"
+}, {
+  "Datum" : "14-09-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "14-09-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-15:00:00"
+}, {
+  "Datum" : "15-09-2023",
+  "Učionica" : "CET",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "18-09-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "21-09-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "21-09-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-16:00:00"
+}, {
+  "Datum" : "21-09-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "25-09-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "25-09-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "28-09-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "28-09-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "28-09-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "28-09-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "29-09-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "29-09-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "02-10-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "02-10-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "02-10-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "03-10-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "03-10-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "03-10-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "04-10-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-19:00:00"
+}, {
+  "Datum" : "04-10-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "04-10-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "05-10-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "06-10-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "09-10-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "09-10-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "10-10-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "10-10-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "13-10-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "13-10-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "13-10-2023",
+  "Učionica" : "Raf18 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "16-10-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "16-10-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "17-10-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "18-10-2023",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "18-10-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "19-10-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "19-10-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "19-10-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "19-10-2023",
+  "Učionica" : "Rg06 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "20-10-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "20-10-2023",
+  "Učionica" : "Rg04 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "23-10-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "24-10-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "24-10-2023",
+  "Učionica" : "Raf12 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "24-10-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "24-10-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "12:15:00-14:00:00"
+}, {
+  "Datum" : "24-10-2023",
+  "Učionica" : "Rg04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "26-10-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "26-10-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "26-10-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "30-10-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "31-10-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "31-10-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "31-10-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "03-11-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "06-11-2023",
+  "Učionica" : "Rg06 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "13:15:00-16:00:00"
+}, {
+  "Datum" : "07-11-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "07-11-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "08-11-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "08-11-2023",
+  "Učionica" : "Raf12 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "08-11-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "08-11-2023",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "08-11-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "08-11-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "09-11-2023",
+  "Učionica" : "Raf15 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "09-11-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "09-11-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "14-11-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-12:00:00"
+}, {
+  "Datum" : "15-11-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "12:15:00-14:00:00"
+}, {
+  "Datum" : "15-11-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "15-11-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "17-11-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "21-11-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "12:15:00-14:00:00"
+}, {
+  "Datum" : "21-11-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "22-11-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "22-11-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "22-11-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-19:00:00"
+}, {
+  "Datum" : "23-11-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "24-11-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "12:15:00-15:00:00"
+}, {
+  "Datum" : "29-11-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "01-12-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "15:15:00-17:00:00"
+}, {
+  "Datum" : "01-12-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "04-12-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "05-12-2023",
+  "Učionica" : "Raf06 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "05-12-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "06-12-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "10:15:00-12:00:00"
+}, {
+  "Datum" : "06-12-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "07-12-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "08-12-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "08-12-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "11-12-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "13-12-2023",
+  "Učionica" : "Rg07 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "15:15:00-18:00:00"
+}, {
+  "Datum" : "13-12-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "14-12-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "14-12-2023",
+  "Učionica" : "Raf21 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "14-12-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-16:00:00"
+}, {
+  "Datum" : "14-12-2023",
+  "Učionica" : "Kolarac3",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "14-12-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "14-12-2023",
+  "Učionica" : "Raf14 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "14-12-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "15-12-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "15-12-2023",
+  "Učionica" : "Kolarac1",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-19:00:00"
+}, {
+  "Datum" : "18-12-2023",
+  "Učionica" : "Kolarac2",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "18-12-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "14:15:00-15:00:00"
+}, {
+  "Datum" : "19-12-2023",
+  "Učionica" : "Raf03 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "19:15:00-21:00:00"
+}, {
+  "Datum" : "19-12-2023",
+  "Učionica" : "Raf08 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "20-12-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "20-12-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "20-12-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-14:00:00"
+}, {
+  "Datum" : "21-12-2023",
+  "Učionica" : "Raf16 (MD)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "22-12-2023",
+  "Učionica" : "Raf13 (MD)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "18:15:00-20:00:00"
+}, {
+  "Datum" : "25-12-2023",
+  "Učionica" : "Raf02 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "18:15:00-21:00:00"
+}, {
+  "Datum" : "25-12-2023",
+  "Učionica" : "Raf05 (u)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "11:15:00-13:00:00"
+}, {
+  "Datum" : "26-12-2023",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "26-12-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "11:15:00-14:00:00"
+}, {
+  "Datum" : "26-12-2023",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "26-12-2023",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "27-12-2023",
+  "Učionica" : "Raf01 (u)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "09:15:00-11:00:00"
+}, {
+  "Datum" : "27-12-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "28-12-2023",
+  "Učionica" : "Raf10 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "28-12-2023",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "14:15:00-16:00:00"
+}, {
+  "Datum" : "29-12-2023",
+  "Učionica" : "Rg02 (u)",
+  "Dan u nedelji" : "FRIDAY",
+  "Termi" : "09:15:00-16:00:00"
+}, {
+  "Datum" : "01-01-2024",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "MONDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "02-01-2024",
+  "Učionica" : "Raf04 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "02-01-2024",
+  "Učionica" : "Rg01 (u)",
+  "Dan u nedelji" : "TUESDAY",
+  "Termi" : "17:15:00-19:00:00"
+}, {
+  "Datum" : "03-01-2024",
+  "Učionica" : "Raf11 (a)",
+  "Dan u nedelji" : "WEDNESDAY",
+  "Termi" : "14:15:00-17:00:00"
+}, {
+  "Datum" : "04-01-2024",
+  "Učionica" : "Raf20 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "16:15:00-18:00:00"
+}, {
+  "Datum" : "04-01-2024",
+  "Učionica" : "Raf07 (u)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "13:15:00-15:00:00"
+}, {
+  "Datum" : "04-01-2024",
+  "Učionica" : "Raf09 (a)",
+  "Dan u nedelji" : "THURSDAY",
+  "Termi" : "09:15:00-14:00:00"
+} ]
